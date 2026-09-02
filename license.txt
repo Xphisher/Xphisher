@@ -1,0 +1,20 @@
+==================================================
+              XPHISHER - END USER LICENSE AGREEMENT
+==================================================
+Application Name: Xphisher
+Version: 4
+Publisher: AbdulRehman, Inc.
+Copyright (C) 2026 AbdulRehman, Inc. All Rights Reserved.
+
+IMPORTANT: Please read this Agreement carefully before installing or using Xphisher.
+
+1. ABOUT THE SOFTWARE:
+Xphisher is a multi-functional security toolkit and educational application. It includes advanced features such as PDF steganography modules, and Xvulnerability scanning tools designed to detect web headers vulnerabilities and system security metrics.
+
+2. TERMS OF USE:
+This software is provided for authorized security testing, educational purposes, and administrative analysis only. The developer (AbdulRehman, Inc.) shall not be held liable for any misuse, illegal activities, or damages caused by this software.
+
+3. INTELLECTUAL PROPERTY & RIGHTS:
+All rights, title, and interest in and to Xphisher (including related documentation, binaries, and graphic assets) are exclusively owned by AbdulRehman, Inc. And Spy Buisness Women. All rights reserved.
+
+By clicking "I accept the agreement" and proceeding with the installation, you acknowledge that you have read, understood, and agreed to the terms stated above.
